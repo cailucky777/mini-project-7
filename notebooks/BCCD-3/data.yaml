@@ -1,0 +1,14 @@
+names:
+- Platelets
+- RBC
+- WBC
+nc: 3
+roboflow:
+  license: MIT
+  project: bccd
+  url: https://universe.roboflow.com/joseph-nelson/bccd/dataset/3
+  version: 3
+  workspace: joseph-nelson
+test: ../test/images
+train: ../train/images
+val: ../valid/images
